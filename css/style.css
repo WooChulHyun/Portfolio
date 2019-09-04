@@ -857,6 +857,7 @@ h6 {
 .site-blocks-cover .intro {
   z-index: 3;
   position: relative;
+  min-height: 363px;
 }
 .site-blocks-cover .intro .heading h1 {
   color: #fff;
@@ -1242,6 +1243,11 @@ h6 {
 
 .backgroundColor808080 {
   background: #f8f9fa;
+}
+
+.downloadCVBtn {
+  position: absolute;
+  bottom: 0;
 }
 
 .strengthImg {
